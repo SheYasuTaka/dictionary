@@ -111,8 +111,10 @@ snobol
 squirrel
 standardml
 subleq
+swift
 tcl
 thue
+typescript
 unlambda
 vala
 verilog
